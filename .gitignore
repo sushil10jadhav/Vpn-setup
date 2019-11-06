@@ -7,3 +7,9 @@
 
 # .tfvars files
 *.tfvars
+
+mykey
+mykey.pub
+*.docx
+*.tmp
+*.terraform
