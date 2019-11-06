@@ -16,6 +16,7 @@
 
 *.tfvars
 
+<<<<<<< HEAD
 
 
 mykey
@@ -27,3 +28,10 @@ mykey.pub
 *.tmp
 
 *.terraform
+=======
+mykey
+mykey.pub
+*.docx
+*.tmp
+*.terraform
+>>>>>>> 83c97d24d26b9e8a0596b6346f06d37b304f5201
